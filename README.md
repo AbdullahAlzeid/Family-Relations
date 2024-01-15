@@ -1,6 +1,6 @@
 # Family-Relations
 
-![Alt text for the image](pro.jpg)
+![Alt text for the image](Images/pro.png)
 
 ## Overview
 The "Family-Relations" project is a Prolog-based application designed to explore and demonstrate various family relationships. It uses Prolog's logical programming capabilities to define and query relationships such as parent, grandparent, sister, and aunt.
